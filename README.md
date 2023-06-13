@@ -48,7 +48,9 @@ Exemple de réponse :
 
 ## Configuration
 
-Avant d'utiliser MetAPI ISBN, vous devez vous assurer d'avoir les clés d'accès nécessaires aux différentes API intégrées. Vous devrez fournir ces clés d'accès dans le fichier de configuration de l'API.
+~~Avant d'utiliser MetAPI ISBN, vous devez vous assurer d'avoir les clés d'accès nécessaires aux différentes API intégrées. Vous devrez fournir ces clés d'accès dans le fichier de configuration de l'API.~~
+
+Je n'utilise que des API publiques.
 
 ## Contributions
 
@@ -56,4 +58,4 @@ Les contributions à MetAPI ISBN sont les bienvenues ! Si vous souhaitez apporte
 
 ## Licence
 
-MetAPI ISBN est distribué sous la licence MIT. Veuillez consulter le fichier `LICENSE` pour plus d'informations.
+MetAPI ISBN est distribué sous la licence CeCILL-B. Veuillez consulter le fichier `LICENCE` pour plus d'informations.
